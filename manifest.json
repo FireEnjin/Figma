@@ -1,0 +1,11 @@
+{
+  "name": "FireEnjin",
+  "id": "1182558175604685472",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "ui": "ui.html"
+}
